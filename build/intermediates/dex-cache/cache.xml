@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_d12f9ef8e88a5b4f74423249a42a57c0b1ea15be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a1392d23c5e2f822ce57bb682858d244afd3a34">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5b8a94ac074fc678a55d46780711f1a26c9a352a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_d64b290dcbc2323105665dfa800600d1f4480ada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_5cbc80270b0de490c324b747188f8ab20fb95c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_22b66b1b5581bf91b782accc68dfada0ed900e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_710e416bc120fd1d1eb0b7804261d6d15faa9c7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_b6441886471625e81db52eb13bc58d9b17f81b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0c2e90dde18506add8eefa022ed4bf305631c2bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_1cfd546983820f460b005cb3083348890cd00c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_637e8a9e8fb1918bcb356c40bde29c1886f99aca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_8f38e00941fefcdaa775808ef7cb0b3e48014ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_016556b16573c5bfbb0cab6f0006c18a1368482f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_f89e198cc1f0473d387881889dd9cc6c1f4fbcd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_4764ff38c412c855f318e509e38296b8f12fea39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_068f6d67dbf5b34b81765ff6eaa912817dc27788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92c5bf3a044b7120fed88291266cfa85e37a5572">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\instant-run_7bebf6a05e908c0cf25cc5d44233e5c24b6abd3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProjects\FoodSQLiteDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3b8ef39b0cd408af8d6168e0fb6a41750d43eb25.jar" />
+    </item>
+
+</items>
